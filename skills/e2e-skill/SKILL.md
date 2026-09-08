@@ -1,6 +1,6 @@
 ---
 name: e2e-skill
-description: Run-owned Skillfully E2E fixture
+description: Run-owned migration fixture
 ---
 
-Return the exact requested fixture nonce.
+Return the exact marker M6_GITHUB_PUBLIC_20260908.

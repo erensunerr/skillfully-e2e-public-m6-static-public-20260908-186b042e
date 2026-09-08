@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "skill_id": "skill_4h48so4dsx",
+  "source": {
+    "provider": "github",
+    "repository": "erensunerr/skillfully-e2e-public-m6-static-public-20260908-186b042e",
+    "path": "skills/e2e-skill"
+  }
+}
